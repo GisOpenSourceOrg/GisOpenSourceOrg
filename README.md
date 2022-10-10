@@ -1,4 +1,4 @@
-- 👋 Hi, We @GisOpenSourceOrg
+- 👋 Hi, We are @GisOpenSourceOrg
 - 👀 We are interested in Leaflet and turf.js Analysis
 - 💞️ Welcome those who are looking to collaborate on Web Gis Technology
 - 📫 How to reach me -@contactatwebGis@gmail.com
